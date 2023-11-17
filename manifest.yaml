@@ -1,5 +1,5 @@
 version: "2"
-name: "Giphy Snapin"
+name: "aarti"
 description: "Snap-In to search and post gif on DevRev Timeline"
 
 service_account:
