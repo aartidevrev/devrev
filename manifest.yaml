@@ -47,7 +47,7 @@ commands:
     function: search_giphy
 
 snap_kit_actions:
-  - name: giphy
+  - name: happy
     description: Snap kit action for showing gif created using `giphy` command
     function: render_giphy
 
