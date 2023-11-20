@@ -17,7 +17,7 @@ event_sources:
 
 inputs:
   organization:
-    - name: giphy_api_key
+    - name: giphy_api
       description: Giphy API key
       field_type: text
       default_value:
