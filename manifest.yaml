@@ -52,7 +52,7 @@ snap_kit_actions:
     function: render_giphy
 
 automations:
-  - name: Add giphy
+  - name: Add giphy when issue
     source: devrev-webhook
     event_types:
       - work_updated
