@@ -31,7 +31,7 @@ functions:
     description: Published giphy
 
 commands:
-  - name: giphy
+  - name: giphy_template
     namespace: devrev
     description: Create a new gif
     surfaces:
