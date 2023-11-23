@@ -8,6 +8,7 @@ import publish_giphy_on_work_closed from './functions/publish_giphy_on_work_clos
 
 export const functionFactory = {
   search_giphy,
+  search_giphy,
   render_giphy,
   publish_giphy_on_work_closed,
 } as const;
